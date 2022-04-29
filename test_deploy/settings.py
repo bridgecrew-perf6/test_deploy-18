@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&zwj=k26^2s$-^3=+^=n7!8#70gga3*5ua3vxgf9-9$2vn=&ux
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['www.reapm.pl','reapm.pl']
 
 
 # Application definition
